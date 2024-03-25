@@ -6,11 +6,13 @@
 <pre>
     💼 Software Developer • India-based 
     👨‍💻 Experienced in React, Next.js, Node.js • Android Dev, React Nativ
-    🎨 Digital art portfolio: [@meenaketan7](http://the-noobe-show.netlify.app)
-    ✉️ Contact me at: [meenaketanpadhy7@gmail.com](mailto:meenaketanpadhy7@gmail.com)
+    🎨 Digital art portfolio: http://the-noobe-show.netlify.app
+    ✉️ Contact me at: meenaketanpadhy7@gmail.com
     🌱 Currently learning Microservices, Docker, and Cloud
     🎮 Music • Games • Anime • Code • Art
-    🌍 Passionate about building innovative and user-friendly applications 
+    🌍 Passionate about:
+       • Building innovative and user-friendly applications
+       • Full-stack web and mobile app development
 </pre>
 <br><br>    
 <p align="left"> 
