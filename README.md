@@ -2,16 +2,17 @@
     <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
     <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=49&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&random=false&width=1000&height=140&lines=Hello+hello+I'm+Meenaketan+" alt="Typing SVG" width="70%"  />
 </div>
-Software Developer
-------------------
-
-* 🌍  I'm based in India
-* 👨‍💻 Experienced in React, Next.js, Node.js, and React Native.
-* 🖥️  See my digital art portfolio [@meenaketan7](http://the-noobe-show.netlify.app)
-* ✉️  You can contact me at [meenaketanpadhy7@gmail.com](mailto:meenaketanpadhy7@gmail.com)
-* 🌱 I’m currently learning **Microservices , Docker and Cloud.**
-* 💻 Passionate about building innovative and user-friendly applications(Full-stack web and mobile app developer).
-    
+<br><br>
+<pre>
+    💼 Software Developer • India-based
+    👨‍💻 Experienced in React, Next.js, Node.js • Android Dev, React Native
+    🎨 Digital art portfolio: [@meenaketan7](http://the-noobe-show.netlify.app)
+    ✉️ Contact me at: [meenaketanpadhy7@gmail.com](mailto:meenaketanpadhy7@gmail.com)
+    🌱 Currently learning Microservices, Docker, and Cloud
+    🎮 Music • Games • Anime • Code • Art
+    🌍 Passionate about building innovative and user-friendly applications (Full-stack web and mobile app developer)
+</pre>
+<br><br>    
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=Meenaketan7&label=Profile%20views&color=0e75b6&style=flat" alt="Meenaketan7" /> 
 </p>
