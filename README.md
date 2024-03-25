@@ -4,13 +4,13 @@
 </div>
 <br><br>
 <pre>
-    💼 Software Developer • India-based
+    💼 Software Developer • India-based (Full-stack web and mobile app developer)
     👨‍💻 Experienced in React, Next.js, Node.js • Android Dev, React Native
     🎨 Digital art portfolio: [@meenaketan7](http://the-noobe-show.netlify.app)
     ✉️ Contact me at: [meenaketanpadhy7@gmail.com](mailto:meenaketanpadhy7@gmail.com)
     🌱 Currently learning Microservices, Docker, and Cloud
     🎮 Music • Games • Anime • Code • Art
-    🌍 Passionate about building innovative and user-friendly applications (Full-stack web and mobile app developer)
+    🌍 Passionate about building innovative and user-friendly applications 
 </pre>
 <br><br>    
 <p align="left"> 
