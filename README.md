@@ -14,11 +14,11 @@
        • Building innovative and user-friendly applications
        • Full-stack web and mobile app development
 </pre>
-<br><br>    
+
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=Meenaketan7&label=Profile%20views&color=0e75b6&style=flat" alt="Meenaketan7" /> 
 </p>
-
+<br><br>    
 Looking for new opportunities to collaborate and contribute to Open-source.
 ### ⚡ Connect with me:
 
