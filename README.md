@@ -4,8 +4,8 @@
 </div>
 <br><br>
 <pre>
-    💼 Software Developer • India-based (Full-stack web and mobile app developer)
-    👨‍💻 Experienced in React, Next.js, Node.js • Android Dev, React Native
+    💼 Software Developer • India-based 
+    👨‍💻 Experienced in React, Next.js, Node.js • Android Dev, React Nativ
     🎨 Digital art portfolio: [@meenaketan7](http://the-noobe-show.netlify.app)
     ✉️ Contact me at: [meenaketanpadhy7@gmail.com](mailto:meenaketanpadhy7@gmail.com)
     🌱 Currently learning Microservices, Docker, and Cloud
