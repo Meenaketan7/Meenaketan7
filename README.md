@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Meenaketan Padhy
-========================================================================================================================================
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=49&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&random=false&width=1000&height=140&lines=Hello+hello+I'm+Meenaketan+" alt="Typing SVG" /></a>
 
 Software Developer
 ------------------
