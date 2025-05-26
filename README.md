@@ -11,9 +11,11 @@
     🌱 Currently learning Go, Elixir,Erlang phoenix and other miscellany.
     🎮 Music • Games • Anime • Code • Art
     🌍 Passionate about:
-       • Wanting to know more about functional programming and learn core things about OS (Android, etc.)
+       • Wanting to know more about functional programming and 
+         learn core things about OS (Android, etc.)
        • Interested in building keyboards.
-       • Building innovative and user-friendly applications, focusing on full-stack web and mobile app development.
+       • Building innovative and user-friendly applications, 
+         focusing on full-stack web and mobile app development.
 </pre>
 
 <p align="left"> 
