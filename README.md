@@ -5,14 +5,15 @@
 <br><br>
 <pre>
     💼 Software Developer • India-based 
-    👨‍💻 Experienced in React, Next.js, Node.js • Android Dev, React Native
+    👨‍💻 Experienced in React, Next.js, Node.js • Android/Ios Dev, React Native, Swift
     🎨 Digital art portfolio: http://the-noobe-show.netlify.app
     ✉️ Contact me at: meenaketanpadhy7@gmail.com
-    🌱 Currently learning Go, Cloud and other miscellany.
+    🌱 Currently learning Go, Elixir,Erlang phoenix and other miscellany.
     🎮 Music • Games • Anime • Code • Art
     🌍 Passionate about:
-       • Building innovative and user-friendly applications
-       • Full-stack web and mobile app development
+       • Wanting to know more about functional programming and learn core things about OS (Android, etc.)
+       • Interested in building keyboards.
+       • Building innovative and user-friendly applications, focusing on full-stack web and mobile app development.
 </pre>
 
 <p align="left"> 
